@@ -1,6 +1,6 @@
 # vacuum-rag-agent
 # 基于 RAG的扫地机器人智能客服 Agent
-**加载智能客服web网页指令:**python -m streamlit run app.py
+**加载智能客服web网页指令:** python -m streamlit run app.py
 ## 核心模块
 - utils
     - config_handler.py 配置文件处理
